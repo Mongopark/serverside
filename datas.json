@@ -1,0 +1,23 @@
+[
+    {
+      "name": "John Doe",
+      "address": {
+        "street": "123 Main Street",
+        "city": "New York"
+      }
+    },
+    {
+      "name": "Jane Smith",
+      "address": {
+        "street": "456 Elm Avenue",
+        "city": "Los Angeles"
+      }
+    },
+    {
+      "name": "Bob Johnson",
+      "address": {
+        "street": "789 Oak Road",
+        "city": "Chicago"
+      }
+    }
+  ]
